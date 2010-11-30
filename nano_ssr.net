@@ -1,0 +1,332 @@
+# EESchema Netlist Version 1.1 created  Sun 28 Nov 2010 04:13:45 PM PST
+(
+ ( /4CF0746E C2 C1 C
+  ( 1 N-000008 )
+  ( 2 /GND )
+ )
+ ( /4CF05584 LED-3MM D1 LED
+  ( 1 N-000036 )
+  ( 2 /GND )
+ )
+ ( /4CF0558A LED-3MM D2 LED
+  ( 1 N-000023 )
+  ( 2 /GND )
+ )
+ ( /4CF05589 LED-3MM D3 LED
+  ( 1 N-000022 )
+  ( 2 /GND )
+ )
+ ( /4CF0559D LED-3MM D4 LED
+  ( 1 N-000037 )
+  ( 2 /GND )
+ )
+ ( /4CF055A3 LED-3MM D5 LED
+  ( 1 N-000021 )
+  ( 2 /GND )
+ )
+ ( /4CF055A5 LED-3MM D6 LED
+  ( 1 N-000038 )
+  ( 2 /GND )
+ )
+ ( /4CF055A0 LED-3MM D7 LED
+  ( 1 N-000020 )
+  ( 2 /GND )
+ )
+ ( /4CF055A1 LED-3MM D8 LED
+  ( 1 N-000039 )
+  ( 2 /GND )
+ )
+ ( /4CF07DB7 PIN_ARRAY_3X1_MOD K1 CONN_3
+  ( 1 /D0/RX )
+  ( 2 /D1/TX )
+  ( 3 /GND )
+ )
+ ( /4CF07E7D JACK_ALIM_MOD K2 CONN_3
+  ( 1 /VIN )
+  ( 2 /GND )
+  ( 3 /GND )
+ )
+ ( /4CF2EF86 PIN_ARRAY_5x1 P1 CONN_5
+  ( 1 /GND )
+  ( 2 /D13/SCK )
+  ( 3 /D11/MOSI )
+  ( 4 /D12/MISO )
+  ( 5 /D10/SS )
+ )
+ ( /4CF066C7 HEADER_5x2_LARGE P2 CONN_5X2
+  ( 1 /+5V )
+  ( 2 /GND )
+  ( 3 /A7 )
+  ( 4 /A6 )
+  ( 5 /A5 )
+  ( 6 /A4 )
+  ( 7 /A3 )
+  ( 8 /A2 )
+  ( 9 /A1 )
+  ( 10 /A0 )
+ )
+ ( /4CF07D36 PIN_ARRAY_4X1 P3 CONN_4
+  ( 1 /+5V )
+  ( 2 /3V3 )
+  ( 3 /GND )
+  ( 4 /AREF )
+ )
+ ( /4CF0739A PIN_ARRAY_2X1 P4 CONN_2
+  ( 1 /RST )
+  ( 2 N-000008 )
+ )
+ ( /4CF06EB8 BLOCK_CONN_2X1 P5 2X_BLOCK_CONN
+  ( 1 N-000027 )
+  ( 2 N-000005 )
+ )
+ ( /4CF06EBF BLOCK_CONN_2X1 P6 2X_BLOCK_CONN
+  ( 1 N-000012 )
+  ( 2 N-000047 )
+ )
+ ( /4CF06EC1 BLOCK_CONN_2X1 P7 2X_BLOCK_CONN
+  ( 1 N-000011 )
+  ( 2 N-000048 )
+ )
+ ( /4CF06ECC BLOCK_CONN_2X1 P8 2X_BLOCK_CONN
+  ( 1 N-000026 )
+  ( 2 N-000049 )
+ )
+ ( /4CF06ECE BLOCK_CONN_2X1 P9 2X_BLOCK_CONN
+  ( 1 N-000010 )
+  ( 2 N-000050 )
+ )
+ ( /4CF06ED1 BLOCK_CONN_2X1 P10 2X_BLOCK_CONN
+  ( 1 N-000025 )
+  ( 2 N-000051 )
+ )
+ ( /4CF06ED3 BLOCK_CONN_2X1 P11 2X_BLOCK_CONN
+  ( 1 N-000009 )
+  ( 2 N-000052 )
+ )
+ ( /4CF06ED5 BLOCK_CONN_2X1 P12 2X_BLOCK_CONN
+  ( 1 N-000024 )
+  ( 2 N-000053 )
+ )
+ ( /4CF07378 R4 R1 R
+  ( 1 /+5V )
+  ( 2 N-000008 )
+ )
+ ( /4CF053D5 DIP-16__300 RP1 R_PACK8_150_Ohm
+  ( 1 /D9 )
+  ( 2 /D8 )
+  ( 3 /D7 )
+  ( 4 /D6 )
+  ( 5 /D5 )
+  ( 6 /D4 )
+  ( 7 /D3 )
+  ( 8 /D2 )
+  ( 9 N-000039 )
+  ( 10 N-000020 )
+  ( 11 N-000038 )
+  ( 12 N-000021 )
+  ( 13 N-000037 )
+  ( 14 N-000022 )
+  ( 15 N-000023 )
+  ( 16 N-000036 )
+ )
+ ( /4CF053BD DIP-16__300 RP2 R_PACK8_150_Ohm
+  ( 1 /D9 )
+  ( 2 /D8 )
+  ( 3 /D7 )
+  ( 4 /D6 )
+  ( 5 /D5 )
+  ( 6 /D4 )
+  ( 7 /D3 )
+  ( 8 /D2 )
+  ( 9 N-000028 )
+  ( 10 N-000035 )
+  ( 11 N-000029 )
+  ( 12 N-000034 )
+  ( 13 N-000030 )
+  ( 14 N-000033 )
+  ( 15 N-000031 )
+  ( 16 N-000032 )
+ )
+ ( /4CF05086 arduino_nano U1 ARDUINO_NANO
+  ( 1 /D1/TX )
+  ( 2 /D0/RX )
+  ( 3 ? )
+  ( 4 /GND )
+  ( 5 /D2 )
+  ( 6 /D3 )
+  ( 7 /D4 )
+  ( 8 /D5 )
+  ( 9 /D6 )
+  ( 10 /D7 )
+  ( 11 /D8 )
+  ( 12 /D9 )
+  ( 13 /D10/SS )
+  ( 14 /D11/MOSI )
+  ( 15 /D12/MISO )
+  ( 16 /D13/SCK )
+  ( 17 /3V3 )
+  ( 18 /AREF )
+  ( 19 /A0 )
+  ( 20 /A1 )
+  ( 21 /A2 )
+  ( 22 /A3 )
+  ( 23 /A4 )
+  ( 24 /A5 )
+  ( 25 /A6 )
+  ( 26 /A7 )
+  ( 27 /+5V )
+  ( 28 /RST )
+  ( 29 /GND )
+  ( 30 /VIN )
+ )
+ ( /4CF0533C DIP-6__300 U2 SSR_DC_6PIN
+  ( 1 N-000032 )
+  ( 2 /GND )
+  ( 3 ? )
+  ( 4 N-000027 )
+  ( 5 N-000005 )
+  ( 6 N-000027 )
+ )
+ ( /4CF0762B DIP-6__300 U3 SSR_DC_6PIN
+  ( 1 N-000031 )
+  ( 2 /GND )
+  ( 3 ? )
+  ( 4 N-000012 )
+  ( 5 N-000047 )
+  ( 6 N-000012 )
+ )
+ ( /4CF05336 DIP-6__300 U4 SSR_DC_6PIN
+  ( 1 N-000033 )
+  ( 2 /GND )
+  ( 3 ? )
+  ( 4 N-000011 )
+  ( 5 N-000048 )
+  ( 6 N-000011 )
+ )
+ ( /4CF0533A DIP-6__300 U5 SSR_DC_6PIN
+  ( 1 N-000030 )
+  ( 2 /GND )
+  ( 3 ? )
+  ( 4 N-000026 )
+  ( 5 N-000049 )
+  ( 6 N-000026 )
+ )
+ ( /4CF05340 DIP-6__300 U6 SSR_DC_6PIN
+  ( 1 N-000034 )
+  ( 2 /GND )
+  ( 3 ? )
+  ( 4 N-000010 )
+  ( 5 N-000050 )
+  ( 6 N-000010 )
+ )
+ ( /4CF05342 DIP-6__300 U7 SSR_DC_6PIN
+  ( 1 N-000029 )
+  ( 2 /GND )
+  ( 3 ? )
+  ( 4 N-000025 )
+  ( 5 N-000051 )
+  ( 6 N-000025 )
+ )
+ ( /4CF05309 DIP-6__300 U8 SSR_DC_6PIN
+  ( 1 N-000035 )
+  ( 2 /GND )
+  ( 3 ? )
+  ( 4 N-000009 )
+  ( 5 N-000052 )
+  ( 6 N-000009 )
+ )
+ ( /4CF05338 DIP-6__300 U9 SSR_DC_6PIN
+  ( 1 N-000028 )
+  ( 2 /GND )
+  ( 3 ? )
+  ( 4 N-000024 )
+  ( 5 N-000053 )
+  ( 6 N-000024 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D5
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D6
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D7
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D8
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+$endlist
+$endfootprintlist
+}

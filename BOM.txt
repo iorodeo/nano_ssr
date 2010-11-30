@@ -1,0 +1,20 @@
+part     decription                        vendor     PN                  QTY
+----------------------------------------------------------------------------------
+C1       0.33uf cap.                       jameco    544930                1
+D1-D8    red led                           jameco    202471                8
+K1       3 pin, f-lock header, male        jameco    232274                1
+K2       jack, DC, PWR, Male, 2.5mm        jameco    101186                1
+P1       5 pin, f-lock header, male        jameco    232291                1
+P2       5x2, header, shrouded, male       jameco    67812                 1
+P3       4-pin, f-lock header, male        jameco    232282                1
+P4       2 pin, f-lock header, male        jameco    232266                1
+P5-P12   2 pin, conn. term. block 3.5mm    jameco    2094506               8
+R1       resistor, 5%, 1/2W                jameco    661221                1
+U2-U9    SSR 60V, DIP 6                    jameco    1583041               8 
+         SSR 350V, DIP 6                   jameco    1582997               8
+         Socket DIP 6                      jameco    683091                8
+RP1-RP2  res. network 8x, 150 Ohm          digikey   4116R-1-151LF-ND      2
+         res. network 8x, 180 Ohm          digikey   4116R-1-181LF-ND      2
+         res. network 8x, 220 Ohm          digikey   4116R-1-221LF-ND      2
+U1       arduino nano                      jameco    2121148               1
+         15 pin, conn. rcpt. .1"           digikey   SAM1222-15-ND         2

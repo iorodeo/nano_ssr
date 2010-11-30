@@ -1,0 +1,248 @@
+Cmp-Mod V01 Created by CVpcb (20090216-final) date = Sun 28 Nov 2010 04:13:45 PM PST
+
+BeginCmp
+TimeStamp = /4CF0746E;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF05584;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF0558A;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF05589;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF0559D;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF055A3;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF055A5;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF055A0;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF055A1;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF07DB7;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1_MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF07E7D;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = JACK_ALIM_MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF2EF86;
+Reference = P1;
+ValeurCmp = CONN_5;
+IdModule  = PIN_ARRAY_5x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF066C7;
+Reference = P2;
+ValeurCmp = CONN_5X2;
+IdModule  = HEADER_5x2_LARGE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF07D36;
+Reference = P3;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF0739A;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF06EB8;
+Reference = P5;
+ValeurCmp = 2X_BLOCK_CONN;
+IdModule  = BLOCK_CONN_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF06EBF;
+Reference = P6;
+ValeurCmp = 2X_BLOCK_CONN;
+IdModule  = BLOCK_CONN_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF06EC1;
+Reference = P7;
+ValeurCmp = 2X_BLOCK_CONN;
+IdModule  = BLOCK_CONN_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF06ECC;
+Reference = P8;
+ValeurCmp = 2X_BLOCK_CONN;
+IdModule  = BLOCK_CONN_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF06ECE;
+Reference = P9;
+ValeurCmp = 2X_BLOCK_CONN;
+IdModule  = BLOCK_CONN_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF06ED1;
+Reference = P10;
+ValeurCmp = 2X_BLOCK_CONN;
+IdModule  = BLOCK_CONN_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF06ED3;
+Reference = P11;
+ValeurCmp = 2X_BLOCK_CONN;
+IdModule  = BLOCK_CONN_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF06ED5;
+Reference = P12;
+ValeurCmp = 2X_BLOCK_CONN;
+IdModule  = BLOCK_CONN_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF07378;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF053D5;
+Reference = RP1;
+ValeurCmp = R_PACK8_150_Ohm;
+IdModule  = DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF053BD;
+Reference = RP2;
+ValeurCmp = R_PACK8_150_Ohm;
+IdModule  = DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF05086;
+Reference = U1;
+ValeurCmp = ARDUINO_NANO;
+IdModule  = arduino_nano;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF0533C;
+Reference = U2;
+ValeurCmp = SSR_DC_6PIN;
+IdModule  = DIP-6__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF0762B;
+Reference = U3;
+ValeurCmp = SSR_DC_6PIN;
+IdModule  = DIP-6__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF05336;
+Reference = U4;
+ValeurCmp = SSR_DC_6PIN;
+IdModule  = DIP-6__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF0533A;
+Reference = U5;
+ValeurCmp = SSR_DC_6PIN;
+IdModule  = DIP-6__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF05340;
+Reference = U6;
+ValeurCmp = SSR_DC_6PIN;
+IdModule  = DIP-6__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF05342;
+Reference = U7;
+ValeurCmp = SSR_DC_6PIN;
+IdModule  = DIP-6__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF05309;
+Reference = U8;
+ValeurCmp = SSR_DC_6PIN;
+IdModule  = DIP-6__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF05338;
+Reference = U9;
+ValeurCmp = SSR_DC_6PIN;
+IdModule  = DIP-6__300;
+EndCmp
+
+EndListe

@@ -1,0 +1,79 @@
+EESchema (20090216-final)  >> Creation date: Mon 29 Nov 2010 03:06:14 PM PST
+
+#Cmp ( order = Reference )
+| C1         0.33uF      
+| D1         LED         
+| D2         LED         
+| D3         LED         
+| D4         LED         
+| D5         LED         
+| D6         LED         
+| D7         LED         
+| D8         LED         
+| K1         CONN_3      
+| K2         CONN_3      
+| P1         CONN_5      
+| P2         CONN_5X2    
+| P3         CONN_4      
+| P4         CONN_2      
+| P5         2X_BLOCK_CONN
+| P6         2X_BLOCK_CONN
+| P7         2X_BLOCK_CONN
+| P8         2X_BLOCK_CONN
+| P9         2X_BLOCK_CONN
+| P10        2X_BLOCK_CONN
+| P11        2X_BLOCK_CONN
+| P12        2X_BLOCK_CONN
+| R1         68          
+| RP1        R_PACK8_150_Ohm
+| RP2        R_PACK8_150_Ohm
+| U1         ARDUINO_NANO
+| U2         SSR_DC_6PIN 
+| U3         SSR_DC_6PIN 
+| U4         SSR_DC_6PIN 
+| U5         SSR_DC_6PIN 
+| U6         SSR_DC_6PIN 
+| U7         SSR_DC_6PIN 
+| U8         SSR_DC_6PIN 
+| U9         SSR_DC_6PIN 
+#End Cmp
+
+#Cmp ( order = Value )
+| 0.33uF       C1        
+| 2X_BLOCK_CONN P5        
+| 2X_BLOCK_CONN P6        
+| 2X_BLOCK_CONN P7        
+| 2X_BLOCK_CONN P8        
+| 2X_BLOCK_CONN P9        
+| 2X_BLOCK_CONN P10       
+| 2X_BLOCK_CONN P11       
+| 2X_BLOCK_CONN P12       
+| 68           R1        
+| ARDUINO_NANO U1        
+| CONN_2       P4        
+| CONN_3       K1        
+| CONN_3       K2        
+| CONN_4       P3        
+| CONN_5       P1        
+| CONN_5X2     P2        
+| LED          D1        
+| LED          D2        
+| LED          D3        
+| LED          D4        
+| LED          D5        
+| LED          D6        
+| LED          D7        
+| LED          D8        
+| R_PACK8_150_Ohm RP1       
+| R_PACK8_150_Ohm RP2       
+| SSR_DC_6PIN  U2        
+| SSR_DC_6PIN  U3        
+| SSR_DC_6PIN  U4        
+| SSR_DC_6PIN  U5        
+| SSR_DC_6PIN  U6        
+| SSR_DC_6PIN  U7        
+| SSR_DC_6PIN  U8        
+| SSR_DC_6PIN  U9        
+#End Cmp
+
+#End List
