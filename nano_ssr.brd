@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 1 date Wed 04 Jan 2012 05:44:03 PM PST
+PCBNEW-BOARD Version 1 date Tue 14 Feb 2012 11:02:08 AM PST
 
 # Created by Pcbnew(2011-07-19)-testing
 
@@ -21,7 +21,7 @@ $EndGENERAL
 $SHEETDESCR
 Sheet A4 11700 8267
 Title ""
-Date "5 jan 2012"
+Date "14 feb 2012"
 Rev ""
 Comp ""
 Comment1 ""
@@ -55,11 +55,11 @@ TextPcbSize 600 800
 EdgeModWidth 150
 TextModSize 600 600
 TextModWidth 120
-PadSize 1890 1890
-PadDrill 1100
+PadSize 600 600
+PadDrill 320
 Pad2MaskClearance 100
 AuxiliaryAxisOrg 0 0
-PcbPlotParams (pcbplotparams (layerselection 3178497) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 2) (pscolor true) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory ""))
+PcbPlotParams (pcbplotparams (layerselection 284196865) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (pscolor true) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory gerber_v1.1/))
 $EndSETUP
 
 $EQUIPOT
@@ -2487,7 +2487,7 @@ Po 81550 34000 600 800 120 900
 De 21 1 0 Normal C
 $EndTEXTPCB
 $TEXTPCB
-Te "SSR NANO V1.0"
+Te "SSR NANO V1.1"
 Po 80100 34000 600 800 120 900
 De 21 1 0 Normal C
 $EndTEXTPCB
