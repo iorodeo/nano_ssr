@@ -1,11 +1,43 @@
-EESchema Schematic File Version 2  date Mon 29 Nov 2010 03:06:01 PM PST
-LIBS:power,/home/wbd/work/iorodeo/products/nano_ssr/design/lib/arduino_nano,device,transistors,conn,linear,regul,74xx,cmos4000,adc-dac,memory,xilinx,special,microcontrollers,dsp,microchip,analog_switches,motorola,texas,intel,audio,interface,digital-audio,philips,display,cypress,siliconi,opto,atmel,contrib,valves,./nano_ssr.cache
+EESchema Schematic File Version 2  date Mon 04 Jun 2012 03:58:48 PM PDT
+LIBS:power
+LIBS:arduino_nano
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:nano_ssr-cache
 EELAYER 24  0
 EELAYER END
 $Descr A4 11700 8267
+encoding utf-8
 Sheet 1 1
 Title ""
-Date "28 nov 2010"
+Date "4 jun 2012"
 Rev ""
 Comp ""
 Comment1 ""
@@ -840,7 +872,7 @@ L R_PACK8 RP1
 U 1 1 4CF053D5
 P 5250 3950
 F 0 "RP1" H 5250 4400 40  0000 C CNN
-F 1 "R_PACK8_150_Ohm" H 5250 3500 40  0000 C CNN
+F 1 "R_PACK8_220_Ohm" H 5250 3500 40  0000 C CNN
 	1    5250 3950
 	1    0    0    -1  
 $EndComp
