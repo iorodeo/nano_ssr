@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Sat 06 Jul 2013 02:28:48 PM PDT
+Cmp-Mod V01 Created by PcbNew date = Mon 08 Jul 2013 02:40:39 PM PDT
 
 BeginCmp
 TimeStamp = /4CF0746E;
@@ -67,56 +67,56 @@ BeginCmp
 TimeStamp = /4CF05584;
 Reference = D1;
 ValeurCmp = LED;
-IdModule  = LED-3MM;
+IdModule  = LED-3MM-custom;
 EndCmp
 
 BeginCmp
 TimeStamp = /4CF0558A;
 Reference = D2;
 ValeurCmp = LED;
-IdModule  = LED-3MM;
+IdModule  = LED-3MM-custom;
 EndCmp
 
 BeginCmp
 TimeStamp = /4CF05589;
 Reference = D3;
 ValeurCmp = LED;
-IdModule  = LED-3MM;
+IdModule  = LED-3MM-custom;
 EndCmp
 
 BeginCmp
 TimeStamp = /4CF0559D;
 Reference = D4;
 ValeurCmp = LED;
-IdModule  = LED-3MM;
+IdModule  = LED-3MM-custom;
 EndCmp
 
 BeginCmp
 TimeStamp = /4CF055A3;
 Reference = D5;
 ValeurCmp = LED;
-IdModule  = LED-3MM;
+IdModule  = LED-3MM-custom;
 EndCmp
 
 BeginCmp
 TimeStamp = /4CF055A5;
 Reference = D6;
 ValeurCmp = LED;
-IdModule  = LED-3MM;
+IdModule  = LED-3MM-custom;
 EndCmp
 
 BeginCmp
 TimeStamp = /4CF055A0;
 Reference = D7;
 ValeurCmp = LED;
-IdModule  = LED-3MM;
+IdModule  = LED-3MM-custom;
 EndCmp
 
 BeginCmp
 TimeStamp = /4CF055A1;
 Reference = D8;
 ValeurCmp = LED;
-IdModule  = LED-3MM;
+IdModule  = LED-3MM-custom;
 EndCmp
 
 BeginCmp

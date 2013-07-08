@@ -1,5 +1,5 @@
-update=Sat 06 Jul 2013 02:06:47 PM PDT
-last_client=cvpcb
+update=Mon 08 Jul 2013 02:39:58 PM PDT
+last_client=pcbnew
 [general]
 version=1
 RootSch=nano_ssr.sch
@@ -48,17 +48,22 @@ LibName30=valves
 LibName31=arduino_nano
 LibName32=conn_5_custom
 LibName33=tvs
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [pcbnew]
 version=1
 LastNetListRead=
 UseCmpFile=1
 PadDrill="    0.812800"
 PadDrillOvalY="    0.812800"
-PadSizeH="    1.524000"
-PadSizeV="    1.524000"
-PcbTextSizeV="    2.032000"
-PcbTextSizeH="    1.524000"
-PcbTextThickness="    0.304800"
+PadSizeH="    1.676400"
+PadSizeV="    1.676400"
+PcbTextSizeV="    1.016000"
+PcbTextSizeH="    1.016000"
+PcbTextThickness="    0.203200"
 ModuleTextSizeV="    1.524000"
 ModuleTextSizeH="    1.524000"
 ModuleTextSizeThickness="    0.304800"
@@ -68,6 +73,7 @@ DrawSegmentWidth="    0.381000"
 BoardOutlineThickness="    0.381000"
 ModuleOutlineThickness="    0.381000"
 [pcbnew/libraries]
+LibDir=
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -80,9 +86,4 @@ LibName9=led
 LibName10=dip_sockets
 LibName11=arduino_nano
 LibName12=tvs
-LibDir=
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+LibName13=led3mm
