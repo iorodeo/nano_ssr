@@ -33,13 +33,13 @@ LIBS:arduino_nano
 LIBS:conn_5_custom
 LIBS:tvs
 LIBS:nano_ssr-cache
-EELAYER 24 0
+EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "4 jun 2012"
+Date "23 apr 2015"
 Rev ""
 Comp ""
 Comment1 ""
@@ -56,18 +56,18 @@ Wire Wire Line
 Wire Wire Line
 	9450 1150 9250 1150
 Wire Wire Line
-	8100 6700 8100 6600
+	8700 6500 8700 6400
 Wire Wire Line
-	8100 6600 8250 6600
+	8700 6400 8850 6400
 Connection ~ 3600 1150
 Wire Wire Line
 	3600 1150 3600 1000
 Wire Wire Line
 	4350 2150 4350 2400
 Wire Wire Line
-	8250 6050 7950 6050
+	8850 5850 8550 5850
 Wire Wire Line
-	8250 5850 7950 5850
+	8850 5650 8550 5650
 Wire Wire Line
 	10450 6700 10200 6700
 Wire Wire Line
@@ -325,7 +325,7 @@ Wire Wire Line
 Wire Wire Line
 	10450 6800 10200 6800
 Wire Wire Line
-	8250 5950 7950 5950
+	8850 5750 8550 5750
 Wire Wire Line
 	6450 1650 6250 1650
 Wire Wire Line
@@ -341,10 +341,10 @@ Wire Wire Line
 Wire Wire Line
 	3700 1150 3700 1250
 Wire Wire Line
-	8250 6500 7850 6500
+	8850 6300 8450 6300
 Wire Wire Line
-	7850 6700 8250 6700
-Connection ~ 8100 6700
+	8450 6500 8850 6500
+Connection ~ 8700 6500
 Wire Wire Line
 	9450 1450 9250 1450
 Wire Wire Line
@@ -386,9 +386,9 @@ Text Label 4900 1100 0    60   ~ 0
 D8
 Text Label 4900 1000 0    60   ~ 0
 D9
-Text Label 7850 6700 0    60   ~ 0
+Text Label 8450 6500 0    60   ~ 0
 GND
-Text Label 7850 6500 0    60   ~ 0
+Text Label 8450 6300 0    60   ~ 0
 VIN
 $Comp
 L PWR_FLAG #FLG01
@@ -433,9 +433,9 @@ Text Notes 6750 800  0    60   ~ 0
 Solid State Relays
 Text Notes 9700 950  0    60   ~ 0
 Relay Display
-Text Notes 8000 6900 0    60   ~ 0
+Text Notes 8600 6700 0    60   ~ 0
 External Power
-Text Notes 8350 6250 0    60   ~ 0
+Text Notes 8950 6050 0    60   ~ 0
 Serial
 Text Notes 10300 7000 0    60   ~ 0
 Misc. Power
@@ -446,29 +446,29 @@ Analog Inputs
 $Comp
 L CONN_3 K2
 U 1 1 4CF07E7D
-P 8600 6600
-F 0 "K2" V 8550 6600 50  0000 C CNN
-F 1 "CONN_3" V 8650 6600 40  0000 C CNN
-F 2 "" H 8600 6600 60  0001 C CNN
-F 3 "" H 8600 6600 60  0001 C CNN
-	1    8600 6600
+P 9200 6400
+F 0 "K2" V 9150 6400 50  0000 C CNN
+F 1 "CONN_3" V 9250 6400 40  0000 C CNN
+F 2 "" H 9200 6400 60  0001 C CNN
+F 3 "" H 9200 6400 60  0001 C CNN
+	1    9200 6400
 	1    0    0    -1  
 $EndComp
-Text Label 7950 6050 0    60   ~ 0
+Text Label 8550 5850 0    60   ~ 0
 GND
-Text Label 7950 5950 0    60   ~ 0
+Text Label 8550 5750 0    60   ~ 0
 D1/TX
-Text Label 7950 5850 0    60   ~ 0
+Text Label 8550 5650 0    60   ~ 0
 D0/RX
 $Comp
 L CONN_3 K1
 U 1 1 4CF07DB7
-P 8600 5950
-F 0 "K1" V 8550 5950 50  0000 C CNN
-F 1 "CONN_3" V 8650 5950 40  0000 C CNN
-F 2 "" H 8600 5950 60  0001 C CNN
-F 3 "" H 8600 5950 60  0001 C CNN
-	1    8600 5950
+P 9200 5750
+F 0 "K1" V 9150 5750 50  0000 C CNN
+F 1 "CONN_3" V 9250 5750 40  0000 C CNN
+F 2 "" H 9200 5750 60  0001 C CNN
+F 3 "" H 9200 5750 60  0001 C CNN
+	1    9200 5750
 	1    0    0    -1  
 $EndComp
 Text Label 10200 6800 0    60   ~ 0
@@ -1579,4 +1579,6 @@ Wire Wire Line
 	3400 4600 3400 4650
 Wire Wire Line
 	2600 4600 2600 4650
+Text Notes 4900 6650 0    60   ~ 0
+Design Files: https://bitbucket.org/iorodeo/nano_ssr/src\n\nSoftware and Firmware: https://bitbucket.org/iorodeo/nano_ssr_software/src
 $EndSCHEMATC
