@@ -12,7 +12,7 @@ P5-P12   2 pin, conn. term. block 3.5mm    digikey   ED2635-ND             8
 R1       68, resistor, 5%, 1/2W            digikey   CF12JT68R0CT-ND       1
 U2-U9    SSR 60V, DIP 6                    digikey   CLA181-ND             8 
          SSR 350V, DIP 6                   digikey   CLA101-ND             8
-         Socket DIP 6                      digikey   AE1485-NS             8
+         Socket DIP 6                      digikey   AE1485-ND             8
 RP1-RP2  res. network 8x, 150 Ohm          digikey   4116R-1-151LF-ND      2
          res. network 8x, 180 Ohm          digikey   4116R-1-181LF-ND      2
          res. network 8x, 220 Ohm          digikey   4116R-1-221LF-ND      2
