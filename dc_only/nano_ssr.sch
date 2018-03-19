@@ -37,7 +37,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "4 jun 2012"
+Date "19 mar 2018"
 Rev ""
 Comp ""
 Comment1 ""
@@ -1039,4 +1039,6 @@ F 3 "" H 2900 2300 60  0001 C CNN
 	1    2900 2300
 	1    0    0    -1  
 $EndComp
+Text Notes 2350 7100 0    90   ~ 0
+Arduino & Python libraries \nhttps://bitbucket.org/iorodeo/nano_ssr_software/src
 $EndSCHEMATC
